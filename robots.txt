@@ -1,0 +1,11 @@
+# Consenti l'indicizzazione di tutto il sito a tutti i crawler
+User-agent: *
+Allow: /
+
+# Escludi eventuali file di log o cartelle di backup se presenti nella root
+Disallow: /error/
+Disallow: /cgi-bin/
+
+# Indica il percorso assoluto della tua Sitemap
+Sitemap: https://ielloo-static.local/sitemap.xml
+Sitemap: https://ielloo-static.local/sitemap-post-type-page.xml
