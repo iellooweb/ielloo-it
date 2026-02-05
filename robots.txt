@@ -7,5 +7,6 @@ Disallow: /error/
 Disallow: /cgi-bin/
 
 # Indica il percorso assoluto della tua Sitemap
-Sitemap: https://ielloo.it/sitemap.xml
-Sitemap: https://ielloo.it/sitemap-post-type-page.xml
+Sitemap: https://ielloo.it/post-sitemap.xml
+Sitemap: https://ielloo.it/sitemap-misc.xml
+Sitemap: https://ielloo.it/page-sitemap.xml
